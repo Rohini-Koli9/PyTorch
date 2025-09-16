@@ -64,7 +64,6 @@ Along with code, some theoretical explanations are included so learners can buil
     - *Theory:* LSTMs are a type of RNN that overcome vanishing gradient problems.  
     - Implements a next-word prediction model.  
 
----
 
 ## How to Use
 1. Clone this repository:
@@ -91,5 +90,3 @@ It provides both **theory** and **practical implementation** so learners can con
 ## License
 
 This project is for learning purposes. Feel free to fork and use the code for learning all credit goes to [@campusx-official](https://github.com/campusx-official).
-
-```
